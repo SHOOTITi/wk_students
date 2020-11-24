@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "cell_base":"../../components/cell_baseInfo/cell_baseInfo",
+    "cell_top":"../../components/cell_topInfo/cell_topInfo"
+  }
+}

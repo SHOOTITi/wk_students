@@ -1,0 +1,19 @@
+<!--pages/BaseInfo/BaseInfo.wxml-->
+<view>
+  <cell_top tName="刘浩楠"></cell_top>
+</view>
+
+<view>
+  <cell_base name="账号"></cell_base>
+  <cell_base name="真实姓名"></cell_base>
+  <cell_base name="学校"></cell_base>
+  <cell_base name="出生日期"></cell_base>
+  <cell_base name="性别"></cell_base>
+  <cell_base name="手机号码"></cell_base>
+  <cell_base name="邮箱"></cell_base>
+  <cell_base name="学历"></cell_base>
+</view>
+
+<view>
+  <button class="edit">编辑</button>
+</view>

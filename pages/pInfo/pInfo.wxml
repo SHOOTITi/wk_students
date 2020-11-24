@@ -1,0 +1,9 @@
+<!--pages/pInfo/pInfo.wxml-->
+<view>
+  <cell_top tName="刘浩楠"></cell_top>
+</view>
+
+<view>
+<cell name="基本资料" url="./../BaseInfo/BaseInfo"></cell>
+<cell name="修改密码" url="../../pages/password/password"></cell>
+</view>
