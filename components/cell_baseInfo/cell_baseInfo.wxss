@@ -1,0 +1,7 @@
+.aa{
+  width: 100%;
+  height: 80rpx;
+  background-color: #fff;
+  border-bottom:2rpx solid #bdbdbd ;
+  display: flex;
+}

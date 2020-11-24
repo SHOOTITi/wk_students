@@ -1,0 +1,8 @@
+<!--components/cell/cell.wxml-->
+<view class="aa" bindtap="link">
+  <image src="../../images/right1.png" style="width:40rpx;height:40rpx;padding:20rpx"></image>
+  <view class="row1" style="padding:20rpx">
+    {{name}}
+  </view>
+</view>
+

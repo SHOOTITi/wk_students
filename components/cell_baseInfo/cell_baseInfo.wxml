@@ -1,0 +1,6 @@
+<!--components/cell_baseInfo/cell_baseInfo.wxml-->
+<view class="aa" bindtap="link">
+  <view class="row1" style="padding:20rpx">
+    {{name}}
+  </view>
+</view>
