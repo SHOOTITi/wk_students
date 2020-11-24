@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/pInfo/pInfo",
+    "pages/password/password",
+    "pages/BaseInfo/BaseInfo",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "微课学生端",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "../wk_students/images/home.png",
+      "selectedIconPath":"../wk_students/images/home.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "平台课程",
+      "iconPath": "../wk_students/images/course.png",
+      "selectedIconPath":"../wk_students/images/course.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "我的课程",
+      "iconPath": "../wk_students/images/manage.png",
+      "selectedIconPath":"../wk_students/images/manage.png"
+    },
+    {
+      "pagePath": "pages/pInfo/pInfo",
+      "text": "我的",
+      "iconPath": "../wk_students/images/info.png",
+      "selectedIconPath":"../wk_students/images/info.png"
+    }]
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
